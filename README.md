@@ -19,12 +19,10 @@ print("Hello world!")
 ```
 
 
-<h3>Licencja</h3>
+<h3>Licence</h3>
 
 Project under MIT LICENSE
 
-<img src="https://forthebadge.com/images/badges/made-with-javascript.svg">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg">
 
 
 ## Install CLI

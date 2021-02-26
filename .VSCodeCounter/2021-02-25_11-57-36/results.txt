@@ -1,0 +1,46 @@
+Date : 2021-02-25 11:57:36
+Directory : c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter
+Total : 19 files,  354 codes, 44 comments, 63 blanks, all 461 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         17 |        314 |         44 |         61 |        419 |
+| JSON       |          1 |         35 |          0 |          1 |         36 |
+| Lighter    |          1 |          5 |          0 |          1 |          6 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                       | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                          |         19 |        354 |         44 |         63 |        461 |
+| specialForms                                                               |         11 |        174 |          0 |         33 |        207 |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                   | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\Errors.js                | JavaScript |         21 |          0 |          2 |         23 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\Events.js                | JavaScript |          4 |          6 |          3 |         13 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\Testing.lighter          | Lighter    |          5 |          0 |          1 |          6 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\cli.js                   | JavaScript |          3 |          0 |          0 |          3 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\package-lock.json        | JSON       |         35 |          0 |          1 |         36 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\parse.js                 | JavaScript |          3 |          0 |          2 |          5 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\run.js                   | JavaScript |         98 |          8 |         16 |        122 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\call.js     | JavaScript |         53 |          0 |          7 |         60 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\concat.js   | JavaScript |         13 |          0 |          5 |         18 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\define.js   | JavaScript |         11 |          0 |          1 |         12 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\do.js       | JavaScript |         10 |          0 |          2 |         12 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\function.js | JavaScript |         18 |          0 |          3 |         21 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\if.js       | JavaScript |         13 |          0 |          2 |         15 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\js.js       | JavaScript |          7 |          0 |          1 |          8 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\log.js      | JavaScript |         11 |          0 |          2 |         13 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\loop.js     | JavaScript |         11 |          0 |          3 |         14 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\require.js  | JavaScript |         15 |          0 |          3 |         18 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\specialForms\while.js    | JavaScript |         12 |          0 |          4 |         16 |
+| c:\Users\Kamilek\Desktop\.mafinek-do-code\Lighter\test.js                  | JavaScript |         11 |         30 |          5 |         46 |
+| Total                                                                      |            |        354 |         44 |         63 |        461 |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+

@@ -19,7 +19,7 @@ print("Hello world!")
 ```
 
 
-<h3>Licence</h3>
+<h3>License</h3>
 
 Project under MIT LICENSE
 

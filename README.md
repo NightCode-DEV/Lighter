@@ -1,12 +1,12 @@
 <h1 align="center"> Lighter </h1>
 
-<p align="center"> Lighet is innovative programming language </p>
+<p align="center"> Lighter is innovative programming language </p>
 
 <hr/>
 
 <h3> Links </h3>
 
-HERE WILL BE LINKS
+Support: https://discord.gg/THAVaTnkts
 
 <h3> Code </h3>
 

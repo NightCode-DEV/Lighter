@@ -1,5 +1,5 @@
 do(
     
-    print(request("GET", "https://some-random-api.ml/facts/dog"))
+    print("TEST")
     
 )

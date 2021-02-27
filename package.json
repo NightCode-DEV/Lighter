@@ -1,8 +1,0 @@
-{
-  "name": "Lighter",
-  "author": "NoveTeam",
-  "version": "0.2",
-  "bin": {
-    "lighter": "cli.js"
-  }
-}

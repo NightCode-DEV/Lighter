@@ -99,6 +99,7 @@ require('./specialForms/while.js')(specialForms, evaluate);
 require("./specialForms/loop")(specialForms, evaluate);
 require("./specialForms/request")(specialForms, evaluate)
 require("./specialForms/doInterval")(specialForms, evaluate)
+require("./specialForms/doTimeout")(specialForms, evaluate)
 
 const topScope = Object.create(null);
 

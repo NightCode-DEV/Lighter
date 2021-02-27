@@ -1,0 +1,12 @@
+{
+    "name": "lighter",
+    "version": "1.0.0",
+    "author": "NoveTeam | Juziomiecio & mafineeek",
+    "dependencies": {
+        "is-extglob": "^2.1.1",
+        "is-glob": "^4.0.1",
+        "is-invalid-path": "^1.0.2",
+        "is-valid-path": "^0.1.1",
+        "node-fetch": "^2.6.1"
+    }
+}

@@ -13,7 +13,7 @@ Support: https://discord.gg/THAVaTnkts
 ```html
 
 do(
-print("Hello world!")
+  print("Hello world!")
 )
 
 ```

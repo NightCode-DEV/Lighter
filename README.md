@@ -27,5 +27,3 @@ Project under MIT LICENSE
 
 ## Install CLI
 To install CLI, download this repo, unpack it and type in main directory `npm install . -g`
-
-hey its me wnm210 :>
